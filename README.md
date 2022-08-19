@@ -22,7 +22,7 @@ Elle me transmet également les spécifications et cadre le début du projet.
     - Utiliser Flexbox plutôt que CSS grid pour l'agencement des éléments sur la feuille de style.
 - Les frameworks et pré-compilateurs comme Sass sont proscrits, la page doit être écrite from scratch uniquement avec HTML et CSS. Le code utilisera des balises sémantiques et devra être soumis aux validateurs W3C.
 - La page sera compatible avec les dernières versions des navigateurs Chrome et Firefox.
-- Le code sera versionné avec Git et un dépôt distant hébergé sur GitHub ou GitLab La page sera déployé sur GitHub Pages ou GitLab Pages.
+- Le code sera versionné avec Git et un dépôt distant hébergé sur GitHub ou GitLab. La page sera déployée sur GitHub Pages ou GitLab Pages.
 
 ## Ressources fournies
 
@@ -36,7 +36,7 @@ Elle me transmet également les spécifications et cadre le début du projet.
 - La police du site est Raleway.
 
 ## Maquettes
-Celles-ci ont été réalisées le designer UI de Reservia, il a utilisé les principes du Material Design.
+Celles-ci ont été réalisées par le designer UI de Reservia, il a utilisé les principes du Material Design.
 
 [![Desktop model](/images/Models/Desktop-model-thumb.png "Maquette desktop")](/images/Models/Desktop-model.png) | [![Mobile model](/images/Models/iPhone8-model-thumb.png "Maquette mobile")](/images/Models/iPhone8-model.png)
 
