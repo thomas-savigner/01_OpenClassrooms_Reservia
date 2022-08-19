@@ -32,7 +32,7 @@ Elle me transmet également les spécifications et cadre le début du projet.
 
    - Primaire: un bleu (#0065FC)
    - Secondaire: le même bleu en version plus claire (#DEEBFF)
-   - Tertiaire: un gris pour le fond (#F2F2F2).
+   - Tertiaire: un gris pour le fond (#F2F2F2)
 - La police du site est Raleway.
 
 ## Maquettes
