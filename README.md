@@ -37,6 +37,8 @@ Elle me transmet également les spécifications et cadre le début du projet.
 ## Maquettes
 Celles-ci ont été réalisées le designer UI de Reservia, il a utilisé les principes du Material Design.
 
+[![Desktop model](/images/Models/Desktop-model-thumb.png "Maquette desktop")](/images/Models/Desktop-model.png) | [![Mobile model](/images/Models/iPhone8-model-thumb.png "Maquette mobile")](/images/Models/iPhone8-model.png)
+
 ## Compétences évaluées
 - Mettre en place son environnement Front-End
 - Utiliser un système de gestion de versions pour le suivi du projet et son hébergement
