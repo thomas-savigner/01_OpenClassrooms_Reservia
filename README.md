@@ -1,4 +1,4 @@
-[![Reservia logo](path "Reservia")](link)
+[![Reservia logo](/images/Reservia-logo.png "Reservia")](https://thomas-savigner.github.io/01_OpenClassrooms_Reservia/)
 # Projet 1 - Transformez une maquette en site web
 
 ## Scenario - contexte
